@@ -7,7 +7,7 @@ sources:
   RedVal:
   name:      The Harbingers
   shortname: Harbinger
-  path:      Harbinger.html
+  path:      The Harbingers.html
   local:     true
 incomplete:
   name:      List of Incomplete Transcripts
