@@ -4,7 +4,7 @@ sources:
   shortname: Sources
   path:      sources.html
   local:     true
-  RedVal:
+The Harbingers:
   name:      The Harbingers
   shortname: Harbinger
   path:      The Harbingers.html
